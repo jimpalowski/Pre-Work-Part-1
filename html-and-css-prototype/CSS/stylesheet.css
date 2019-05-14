@@ -43,10 +43,12 @@ h1 {
 /* Your CSS code goes here */
 
 .black-box {
-	border: 1px solid #eaeaea;
+	border: 15px solid #424242;
 	background-color: #424242;
 	color: white;
-	
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 25px;
 }
 
 
