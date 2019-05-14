@@ -20,8 +20,9 @@ h1 {
 
 .container {
 	margin: 2em auto;
-	max-width: 630px;
+	max-width: 500px;
 	text-align: center;
+	font-family: "rooney-web";
 }
 
 /* The following font information and color codes are provided for you.  They do not match the prototype exactly, but they are fine to use for the assignment and doing so does not count against you.  They are simply meant to help you save time.  We would like everyone to have as close to a pixel-perfect match to the prototype as possible.  If you do find a font/color that matches more precisely, please share it with the team so we can improve the activity for future applicants.  Thank you!  Happy coding!
@@ -40,3 +41,13 @@ h1 {
 */
 
 /* Your CSS code goes here */
+
+.black-box {
+	border: 1px solid #eaeaea;
+	background-color: #424242;
+	color: white;
+	
+}
+
+
+
