@@ -63,6 +63,10 @@ h1 {
 	border: 10px solid #EF5F3C;
 }
 
+.days-left {
+	color: #EF5F3C;
+}
+
 #donor-box {
 	margin-top: 20px;
 }
