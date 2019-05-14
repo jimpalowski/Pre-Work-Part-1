@@ -51,5 +51,19 @@ h1 {
 	font-size: 25px;
 }
 
+.donation-box {
+	border: 1px solid #eaeaea;
+	margin-top: 10px;
+	font-size: 20px;
+	color: #777;
+	font-family: Rockwell;
+	max-width: 400px;
+}
+.orange-bar {
+	border: 10px solid #EF5F3C;
+}
 
+#donor-box {
+	margin-top: 20px;
+}
 
